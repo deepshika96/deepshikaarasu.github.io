@@ -42,7 +42,7 @@ keywords: "deepshika, arasu, "
 #black-favicon: ""
 #logo: "" # leave blank if you don't want a logo
 
-background-img: "/deepshikaarasu.github.io/img/introbg.jpg"
+background-img: "/img/introbg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -135,13 +135,13 @@ events:
   - image: "/img/timeline/nitw.png"
     date: "August 2014 - August 2018"
     description: "B Tech. in Biotechnology"    
-  - image: "/deepshikaarasu.github.io/img/timeline/Charite-1.jpg"
+  - image: "/img/timeline/Charite-1.jpg"
     date: "October 2018 - August 2019"
     description: "Neurasmus - M.Sc. in Neuroscience"
-  - image: "/deepshikaarasu.github.io/img/timeline/VU.jpg"
+  - image: "/img/timeline/VU.jpg"
     date: "October 2018 - August 2019"
     description: "Neurasmus - M.Sc. in Neuroscience"  
-  - image: "/deepshikaarasu.github.io/img/timeline/VU.jpg"
+  - image: "/img/timeline/VU.jpg"
     date: "Someday soon"
     description: "PhD"  
     

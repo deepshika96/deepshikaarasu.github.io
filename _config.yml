@@ -42,7 +42,7 @@ keywords: "deepshika, arasu, "
 #black-favicon: ""
 #logo: "" # leave blank if you don't want a logo
 
-background-img: "/deepshikaarasu.github.io/img/introbg.jpg"
+background-img: "/img/introbg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -154,7 +154,7 @@ events:
 # Contact #
 ###########
 
-email: "deepshikaarasu@gmail.com"
+email: "deepshika96@gmail.com"
 
 
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section

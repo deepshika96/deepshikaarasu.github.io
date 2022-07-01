@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Deepshika Arasu"
 title: "Deepshika Arasu"
-description: "This is my personal website where you can find out more about me and my interests in neuroscience, feminism, policy, watercolours among other things ."
+description: "This is my personal website where you can find out more about me and my interests in neuroscience, feminism, policy, watercolours among other things."
 keywords: "deepshika, arasu, "
 #favicon: "/img/favicon.ico"
 
@@ -132,18 +132,20 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/nitw.png"
-    date: "August 2014 - August 2018"
-    description: "B Tech. in Biotechnology"    
-  - image: "/img/timeline/Charite-1.jpg"
-    date: "October 2018 - August 2019"
-    description: "Neurasmus - M.Sc. in Neuroscience"
+    
+ 
+  - image: "/img/timeline/UB.jpg"
+    date: "May 2021 - current"
+    description: "PhD in Biomedcine"  
   - image: "/img/timeline/VU.jpg"
     date: "October 2018 - August 2019"
     description: "Neurasmus - M.Sc. in Neuroscience"  
-  - image: "/img/timeline/VU.jpg"
-    date: "Someday soon"
-    description: "PhD"  
+ - image: "/img/timeline/Charite-1.jpg"
+    date: "October 2018 - August 2019"
+    description: "Neurasmus - M.Sc. in Neuroscience"
+  - image: "/img/timeline/nitw.png"
+    date: "August 2014 - August 2018"
+    description: "B Tech. in Biotechnology" 
     
 
 # First image of the Timeline

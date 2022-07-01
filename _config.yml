@@ -42,7 +42,7 @@ keywords: "deepshika, arasu, "
 #black-favicon: ""
 #logo: "" # leave blank if you don't want a logo
 
-background-img: "/website/img/introbg.jpg"
+#background-img: "/website/img/introbg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Hi! Welcome to my website"
 
 
-me-img: "/img/profilepic.jpeg"
+me-img: "/img/Deepshika.jpeg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.

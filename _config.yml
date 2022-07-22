@@ -16,7 +16,7 @@ type-speed: 5
 start-delay: 200
 delete-delay: 5000
 lines:
-  - text: Hi! Welcome to my website
+  - text: "Hi! Welcome to my website"
 me-img: /img/Deepshika.jpeg
 color-browser: '#000000'
 apple-status-bar-style: black

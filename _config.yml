@@ -17,10 +17,10 @@ start-delay: 200
 delete-delay: 5000
 lines:
   - text: Hi! Welcome to my website
-me-img: /website/img/Deepshika.jpeg
+me-img: /img/Deepshika.jpeg
 color-browser: '#000000'
 apple-status-bar-style: black
-web-app-mode: false
+web-app-mode: true
 icon-36p: /img/web-app/icon-36p.png
 icon-48p: /img/web-app/icon-48p.png
 icon-72p: /img/web-app/icon-72p.png
@@ -43,7 +43,7 @@ vkontakte-share: true
 disqus-shortname: personal-jekyll-theme
 syntax-highlight: true
 events:
-  - image: /img/timeline/UB.jpg
+  - image: /img/timeline/ub.jpg
     date: May 2021 - current
     description: PhD in Biomedcine
   - image: /img/timeline/VU.jpg
@@ -55,12 +55,14 @@ events:
   - image: /img/timeline/nitw.png
     date: August 2014 - August 2018
     description: B Tech. in Biotechnology
+timeline-img: ""    
+    
 email: deepshika96@gmail.com
 pgp: false
 author_blurb: >-
   Deepshika Arasu is currently pursuing her PhD at Poietis under the Marie Curie
   Fellowship program ASCTN.
-author_blurb_image: /website/img/Deepshika.jpeg
+author_blurb_image: /img/Deepshika.jpeg
 social:
   - title: facebook
     url: 'https://facebook.com/deepshika.arasu'

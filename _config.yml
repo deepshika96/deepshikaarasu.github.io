@@ -11,7 +11,7 @@ background-img: /website/img/introbgcopy.jpg
 dynamic-typing: true
 shuffle: true
 loop: true
-loop-count: false
+loop-count: true
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
@@ -43,7 +43,7 @@ vkontakte-share: true
 disqus-shortname: personal-jekyll-theme
 syntax-highlight: true
 events:
-  - image: /img/timeline/ub.jpg
+  - image: /img/timeline/ub.png
     date: May 2021 - current
     description: PhD in Biomedcine
   - image: /img/timeline/VU.jpg
@@ -54,8 +54,7 @@ events:
     description: Neurasmus - M.Sc. in Neuroscience
   - image: /img/timeline/nitw.png
     date: August 2014 - August 2018
-    description: B Tech. in Biotechnology
-timeline-img: ""    
+    description: B Tech. in Biotechnology  
     
 email: deepshika96@gmail.com
 pgp: false

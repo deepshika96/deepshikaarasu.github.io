@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Deepshika Arasu"
 title: "Deepshika Arasu"
-description: "This is my personal website where you can find out more about me and my interests in neuroscience, feminism, policy, watercolours among other things."
+description: ""
 keywords: "deepshika, arasu, "
 #favicon: "/img/favicon.ico"
 
@@ -48,7 +48,7 @@ background-img: "/website/img/introbgcopy.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: True
+dynamic-typing: False
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.

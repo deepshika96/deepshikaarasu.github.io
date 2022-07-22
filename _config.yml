@@ -5,8 +5,9 @@ force-https: true
 lang: en
 author: Deepshika Arasu
 title: Deepshika Arasu
-description: ''
+description: 'This is my professional website where you can find out more about me and my educational background.'
 keywords: 'deepshika, arasu, '
+favicon: /website/img/icon1.ico
 black-favicon: /website/img/icon1.ico
 background-img: /website/img/introbgcopy.jpg
 dynamic-typing: True

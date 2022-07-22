@@ -55,7 +55,7 @@ events:
   - image: /img/timeline/nitw.png
     date: August 2014 - August 2018
     description: B Tech. in Biotechnology  
-timeline-img: ""
+#timeline-img: ""
 email: deepshika96@gmail.com
 pgp: false
 author_blurb: >-

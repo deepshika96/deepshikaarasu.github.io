@@ -7,7 +7,7 @@ author: Deepshika Arasu
 title: Deepshika Arasu
 description: ''
 keywords: 'deepshika, arasu, '
-black-favicon: "/website/img/icon1.ico"
+black-favicon: /website/img/icon1.ico
 background-img: /website/img/introbgcopy.jpg
 dynamic-typing: True
 shuffle: True

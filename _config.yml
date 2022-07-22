@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Hi! Welcome to my website"
 
 
-me-img: "/img/Deepshika.jpeg"
+me-img: "/website/img/Deepshika.jpeg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.

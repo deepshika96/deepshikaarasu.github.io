@@ -42,7 +42,7 @@ keywords: "deepshika, arasu, "
 #black-favicon: ""
 #logo: "" # leave blank if you don't want a logo
 
-background-img: "/img/introbg.jpg"
+background-img: "/website/img/introbgcopy.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Hi! Welcome to my website"
 
 
-me-img: "/img/profilepic.jpeg"
+me-img: "/website/img/Deepshika.jpeg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -171,7 +171,7 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Deepshika Arasu is currently pursuing her PhD at Poietis under the Marie Curie Fellowship program ASCTN."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/Deepshika.jpeg"
 
 ##################
 # Social Buttons #

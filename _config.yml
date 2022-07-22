@@ -9,11 +9,11 @@ description: ''
 keywords: 'deepshika, arasu, '
 black-favicon: "/website/img/introbgcopy.jpg"
 background-img: /website/img/introbgcopy.jpg
-dynamic-typing: true
-shuffle: true
-loop: true
-loop-count: true
-type-speed: 5
+dynamic-typing: True
+shuffle: True
+loop: True
+loop-count: False
+type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines:
